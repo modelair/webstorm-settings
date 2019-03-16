@@ -1,0 +1,83 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/npm">
+      <version-cache last-modified="1533218194000" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.12.0" last-modified="1539189872000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="editorAAType" value="Greyscale" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="0-0-35-255,,,0-255-194-255,,,253-240-255-255,,,63-59-64-255,,,103-168-183-255,,,35-41-58-255,,,83-203-219-255,,,18-0-22-255,,,147-50-197-255,,,234-165-255-255,,,244-199-255-255,,,219-197-255-255,,,0-222-58-255,,,222-9-6-255,,,0-255-44-255,,,0-191-33-255,,,74-0-197-255,,,197-106-142-255,,,72-191-86-255,,,237-225-255-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.45285526" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.78600824" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Vue Single File Component" />
+    <property name="InstalledPluginsSearchHistory" value="material" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="17" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="KEYMAP" value="close&#10;tab" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="18" />
+    <property name="PLUGIN_FILTER" value="Vue" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="btn&#10;caro&#10;messa&#10;top&#10;styl" />
+    <property name="SettingsSearchHistory" value="git&#10;scss&#10;eslint&#10;empty tag&#10;browser" />
+    <property name="SplitFileEditor.Proportion" value="0.44360903" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.652439" />
+    <property name="TrendingPluginsSearchHistory" value="vue" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="308" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.181" value="15" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="C:/projects/_cloned/Space-Snake&#10;C:/projects/_cloned/muse-ui&#10;C:/Users/modelair/AppData/Local/Google/Chrome SxS/Application/chrome.exe&#10;C:/Users/modelair/.ssh/id_rsa&#10;C:/projects/offerobot/node_modules/eslint&#10;C:/projects/_test/nuxt-test-2&#10;C:/projects/mongoosir&#10;C:/projects/btcmen/shared&#10;C:/projects/btcmen&#10;C:/projects/btcmen-cc&#10;C:/Program Files/nodejs/npm&#10;C:/projects/_cloned/vue&#10;C:/projects/eleseer&#10;C:/projects/_cloned/events&#10;C:/projects/ofbprivate.ppk&#10;C:/projects/_cloned/nuxt-express-test&#10;C:/Windows/devcon/X64&#10;C:/projects/_cloned/vue-dev&#10;C:/projects/_cloned/vue-router&#10;C:/projects/nodot&#10;C:/projects/_cloned/ui&#10;C:/projects/_cloned/el-nuxt-boilerplate&#10;C:/projects/el-nuxt-test-build&#10;C:/projects/_cloned/electron-nuxt-master&#10;C:/projects/_test/nuxt-test&#10;C:/projects/convicts&#10;C:/projects/_cloned/electron-quick-start&#10;C:/projects/_cloned/electron-nedb-demo&#10;C:/projects/_cloned/Keen-UI&#10;C:/projects/elezone" />
+    <property name="file.gist.reindex.count" value="153779" />
+    <property name="fileTypeChangedCounter" value="30" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="59654" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <property name="settings.code.style.selected.tab.CSS" value="Blank Lines" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.SCSS" value="Blank Lines" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.48190045" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <token>dfccdfc8df92df9bdf9cdf92df9edfcbdf9adfccdf9fdfcedf9ddf9adf93df9ddf9bdf9cdf9cdfcedf99df9adfccdfcedfcfdf9cdf9fdfc8dfcfdfcbdfc9df98df9bdf9fdf9cdf9adf9ddf9bdfc8dfce</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="modelair" />
+      <option name="repoName" value="btcmen" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>

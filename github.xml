@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="be288d0a-944d-44bd-acd8-670888fd3fd3" name="offerobot">
+      <server host="github.com" />
+    </account>
+    <account id="b988143a-5e6e-447a-808a-da8ba9297aae" name="modelair">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

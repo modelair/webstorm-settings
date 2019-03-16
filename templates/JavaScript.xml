@@ -1,0 +1,13 @@
+<templateSet group="JavaScript">
+  <template name="lg" value="console.log('$END$')" description="lg" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="er" value="const get = async function (req, res, next) {&#10;  try {&#10;    res.asyncData.set()&#10;    res.asyncData.setError(errors.OK)&#10;  } catch (e) {&#10;    console.log('error', e)&#10;    res.asyncData.setError(errors.FAIL)&#10;  } finally {&#10;    next()&#10;  }&#10;}" description="async expressss route function with ty catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
